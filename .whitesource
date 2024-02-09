@@ -1,3 +1,9 @@
 {
-  "settingsInheritedFrom": "Mend-JoshN-GHE-SAST/whitesource-config@main"
+  "settingsInheritedFrom": "Mend-JoshN-GHE-SAST/whitesource-config@main",
+  "scanSettings": {
+    "enableReachability": true
+  },
+  "checkRunSettings": {
+    "strictMode": "warning"
+  }
 }

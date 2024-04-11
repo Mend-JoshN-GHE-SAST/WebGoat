@@ -3,6 +3,8 @@
   "scanSettings": {
     "enableReachability": true
   },
+   "issueSettingsSAST": "NONE"
+},
   "checkRunSettings": {
     "strictMode": "warning"
   }

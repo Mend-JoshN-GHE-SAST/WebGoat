@@ -5,6 +5,9 @@
   },
    "issueSettingsSAST": "NONE"
 },
+   "scanSettingsSAST": {
+     "findingSuppressions": "requireApproval"
+},
   "checkRunSettings": {
     "strictMode": "warning"
   }
